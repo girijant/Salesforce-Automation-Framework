@@ -90,6 +90,10 @@ Automated Login script execution from the Framework:
 ![image](https://user-images.githubusercontent.com/17194046/155522081-fdaf0228-01d2-4f6d-8b80-ef5856b19718.png)
 ![image](https://user-images.githubusercontent.com/17194046/155522166-26e75133-c821-4e51-b73d-9b7b40a90fa6.png)
 
+# Ref:
+https://confluence.ext.net.nokia.com/display/NSWAppsSystemTeam/ICA+Functional+Test+Automation+Framework
+
+# Demo
 
 
 
